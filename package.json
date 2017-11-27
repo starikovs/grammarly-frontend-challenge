@@ -1,0 +1,15 @@
+{
+  "name": "grammarly-frontend-challenge",
+  "description": "Implemented by https://twitter.com/s_starikov \n",
+  "version": "0.0.36",
+  "dependencies": {},
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
